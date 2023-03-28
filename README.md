@@ -186,3 +186,147 @@ for equals to override bool equals
 
 `equals + tab twice`
 
+Resharper
+-----------------------
+
+see in the default key map that you have three shortcuts for using Intellisense
+
+`control + space` for simple code completion 
+
+`control + shift + space` for a smart code completion
+
+`control + alt + space` for symbol completion.
+
+to move code up and down for lines, methods and classes
+
+`ctrl + shift + alt + up or down arrow`
+
+to select code words, lines 
+
+`ctrl + W`
+
+to go back on the selection made by above shortcut
+
+`ctrl + shift + W`
+
+to duplicate a line of code
+
+`ctrl + D`
+
+To select a complete declaration or piece of method block
+
+`ctrl + shift + [`
+
+to comment and uncomment out a line
+
+`ctrl + /`
+
+To open resharper code generator
+
+`alt + insert`
+
+To generate constructor
+
+`ctorp`
+
+Move to previous issue in file
+
+`shift + F12`
+
+to display suggestions window
+
+`alt + Enter`
+
+To add a template around a code block
+
+`ctrl + alt + j`
+
+To open templates window
+
+`ctrl + j`
+
+To open files search menu bar
+
+`ctrl + e`
+
+To open recent edits
+
+`ctrl + shift + alt + backspace`
+
+To search the complete codebase
+
+`ctrl + n`
+
+To search for a file or foler
+
+`ctrl + shift + n`
+
+Keep typing ctrl + n to toggle between different search windows
+
+To navigate to all memebers in the current file
+
+`ctrl + f12`
+
+To open all usages 
+
+`alt + F7`
+
+To open the find results window
+
+`ctrl + alt + u`
+
+To go to the type declaration 
+
+`ctrl + shift + t`
+
+To open the current Code file structure
+
+`ctrl + f11`
+
+Navigate to next or previous memeber
+
+`alt + up arrow or down arrow`
+
+To locate the current file in solution explorer
+or delete the line on which the cursor is
+
+`ctrl + shift + L`
+
+To rename a member use `F2`
+
+To move a type use `F6`
+
+To delete a member
+
+`alt + delete`
+
+To extract method or local function
+
+`ctrl + alt + M`
+
+For VS - `ctrl + R + M`
+
+If you want to inline a variable
+
+`ctrl + alt + N`
+
+To move a logic out of inline to a variable
+
+`ctrl + alt + v`
+
+To change signature of a method
+
+`ctrl + F6`
+
+To open context refactorings
+
+`ctrl + shift + R`
+
+To open code cleanup window
+
+`ctrl + alt + F`
+
+Align and format the code
+
+`ctrl + alt + L`
+
