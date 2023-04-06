@@ -191,6 +191,8 @@ Resharper
 
 see in the default key map that you have three shortcuts for using Intellisense
 
+`ctrl + B` to go to the method declaration
+
 `control + space` for simple code completion 
 
 `control + shift + space` for a smart code completion
